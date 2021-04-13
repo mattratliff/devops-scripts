@@ -1,2 +1,2 @@
 # devops-scripts
-Various DevOps Scripts
+Various DevOps Scripts using TypeScript and JavaScript
